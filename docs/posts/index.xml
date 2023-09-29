@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PRUEBA</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on PRUEBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 19:57:04 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo_post</title>
+      <link>https://example.org/posts/segundo_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:57:04 +0200</pubDate>
+      
+      <guid>https://example.org/posts/segundo_post/</guid>
+      <description>segundo post Id ut occaecat culpa enim voluptate Lorem duis commodo ex dolor fugiat duis fugiat. Culpa cillum duis qui laborum cillum dolore cupidatat est esse fugiat anim. Officia enim Lorem adipisicing amet ullamco eu. Ut est irure amet excepteur. Proident labore ea id non officia duis officia sint est laborum cillum enim aute consequat.
+Veniam veniam mollit voluptate ullamco Lorem enim aliquip consequat commodo ut in consectetur nulla eu. Ex elit ad deserunt reprehenderit veniam magna cillum sunt elit magna occaecat.</description>
+    </item>
+    
+    <item>
+      <title>Primer_post</title>
+      <link>https://example.org/posts/primer_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:56:55 +0200</pubDate>
+      
+      <guid>https://example.org/posts/primer_post/</guid>
+      <description>primer post Aliquip amet consectetur commodo pariatur in cillum veniam et adipisicing. Non proident culpa eiusmod dolor in dolore nostrud. Commodo ipsum non fugiat dolore. Duis Lorem sit id aute laboris est elit dolor ullamco voluptate in. Consequat dolore cupidatat nulla eiusmod ut aliqua nulla commodo esse. Mollit et adipisicing fugiat aliqua qui fugiat eiusmod sit quis nostrud pariatur nisi. In aute incididunt minim ex commodo ex tempor culpa consectetur nostrud non aute Lorem ut.</description>
+    </item>
+    
+  </channel>
+</rss>
